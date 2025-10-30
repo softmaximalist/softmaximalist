@@ -8,7 +8,7 @@
 
 ### 🧰 Tech Stack
 - **AI/ML:** Python, R, Scikit-learn, PyTorch, OpenCV
-- **Web:** Javascript, Typescript, React, Node.js, Next.js
+- **Web:** Javascript, Typescript, React, Node.js, Next.js, FastAPI
 - **Data:** SQL, Prisma
 - **Developer Tools:** Git, GitHub, Docker, Bash
 - **Animation:** Manim
