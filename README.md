@@ -1,14 +1,19 @@
 # 👋 About Me
 
-🧑‍💻 I'm a recent computer science graduate passionate about AI/ML, systems programming, and web programming.  
-🛠️ I am current working on the next release of my browser extension ([PostureCorrector: AI Posture Assistance App](https://posturecorrector.vercel.app/)).<br>
-📹 I am also working on my YouTube channel where I post videos about programming, computer science, math, and stats.
+I'm a recent computer science graduate passionate about AI/ML, systems programming, and web programming.  
+
+---
+# 🛠️ What I'm currently working on
+- Creating a Golang program that displays remaining battery and clock in the terminal
+- The next release of my browser extension ([PostureCorrector: AI Posture Assistance App](https://posturecorrector.vercel.app/))
+- Programming animations for YouTube video covering some statistical concepts from statistical prespectives
 
 ---
 
 ### 🧰 Tech Stack
-- **AI/ML:** Python, R, Scikit-learn, PyTorch, OpenCV
-- **Web:** Javascript, Typescript, React, Node.js, Next.js, FastAPI
+- **Languages:** Python, R, JavaScript/Typescript, Golang
+- **AI/ML:** Scikit-learn, PyTorch, OpenCV
+- **Web:** React, Node.js, Next.js, FastAPI
 - **Data:** SQL, Prisma
 - **Developer Tools:** Git, GitHub, Docker, Bash
 - **Animation:** Manim
