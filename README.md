@@ -6,7 +6,7 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 ### 🛠️ What I'm currently working on
 - Creating a Golang program that displays remaining battery and clock in the terminal
 - The next release of my browser extension ([PostureCorrector: AI Posture Assistance App](https://posturecorrector.vercel.app/))
-- Programming animations for YouTube video covering some statistical concepts from statistical prespectives
+- Programming animations for YouTube video covering some statistical concepts from geometric prespectives
 
 ---
 
