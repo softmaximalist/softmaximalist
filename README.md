@@ -4,17 +4,16 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 
 ---
 ### 🛠️ What I'm currently working on
-- Creating a Golang program that displays remaining battery and clock in the terminal
 - The next release of my browser extension ([PostureCorrector: AI Posture Assistance App](https://posturecorrector.vercel.app/))
 - Programming animations for YouTube video covering some statistical concepts from geometric prespectives
 
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Python, R, JavaScript/Typescript, Golang
+- **Languages:** Python, Golang, JavaScript/Typescript
 - **AI/ML:** Scikit-learn, PyTorch, OpenCV
 - **Web:** React, Node.js, Next.js, FastAPI
-- **Data:** SQL, Prisma
+- **Data:** PostgreSQL, Prisma
 - **Developer Tools:** Git, GitHub, Docker, Bash
 - **Animation:** Manim
 
