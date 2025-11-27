@@ -4,8 +4,7 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 
 ---
 ### 🛠️ What I'm currently working on
-- The next release of my browser extension ([PostureCorrector: AI Posture Assistance App](https://posturecorrector.vercel.app/))
-- New website for the browser extension PostureCorrector
+- Web application in Go
 
 ---
 
