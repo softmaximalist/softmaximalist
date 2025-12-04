@@ -4,7 +4,7 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 
 ---
 ### 🛠️ What I'm currently working on
-- Web application in Go
+- Building an interactive website where users can learn modal editing with Helix
 
 ---
 
