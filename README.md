@@ -2,6 +2,8 @@
 
 I'm a recent computer science graduate passionate about AI/ML, systems programming, and web programming.  
 
+---
+
 ### 🧰 Tech Stack
 - **Languages:** Python, Golang, JavaScript/Typescript
 - **AI/ML:** Scikit-learn, PyTorch, OpenCV
