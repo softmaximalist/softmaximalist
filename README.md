@@ -2,12 +2,6 @@
 
 I'm a recent computer science graduate passionate about AI/ML, systems programming, and web programming.  
 
----
-### 🛠️ What I'm currently working on
-- Building an interactive website where users can learn modal editing with Helix
-
----
-
 ### 🧰 Tech Stack
 - **Languages:** Python, Golang, JavaScript/Typescript
 - **AI/ML:** Scikit-learn, PyTorch, OpenCV
