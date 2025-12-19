@@ -6,10 +6,6 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 
 ### 🧰 Tech Stack
 - **Languages:** Python, Golang, JavaScript/Typescript
-- **AI/ML:** Scikit-learn, PyTorch, OpenCV
-- **Web:** React, Node.js, Next.js, FastAPI
-- **Data:** PostgreSQL, Prisma
-- **Developer Tools:** Git, GitHub, Docker, Bash
 - **Animation:** Manim
 
 ---
