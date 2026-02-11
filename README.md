@@ -5,7 +5,7 @@ I'm a recent computer science graduate passionate about AI/ML, systems programmi
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Python, Rust, JavaScript/Typescript
+- **Languages:** Python, Rust, JavaScript
 - **Animation:** Manim
 
 ---
